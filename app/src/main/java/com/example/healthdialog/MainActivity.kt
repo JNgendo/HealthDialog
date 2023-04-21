@@ -6,6 +6,8 @@ import android.os.Bundle
 import android.widget.Button
 import androidx.core.view.WindowCompat
 import com.example.healthdialog.databinding.ActivityMainBinding
+import java.text.SimpleDateFormat
+import java.util.*
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding

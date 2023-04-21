@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">HealthDialog</string>
+    <string name="birthdate_dd_mm_yyyy">Birthdate(DD_MM_YYYY)</string>
 </resources>
